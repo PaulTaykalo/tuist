@@ -8,7 +8,7 @@ let dependencies = Dependencies(
         .package(url: "https://github.com/CombineCommunity/CombineExt.git", from: "1.8.0"),
         .package(url: "https://github.com/FabrizioBrancati/Queuer.git", from: "2.1.1"),
         .package(url: "https://github.com/Flight-School/AnyCodable", from: "0.6.7"),
-        .package(url: "https://github.com/weichsel/ZIPFoundation.git", .revision("22bfd0ad22e1b2057088180e8e9c66e204755098")),
+        .package(url: "https://github.com/weichsel/ZIPFoundation.git", .revision("1f10742b8b02bd006747b1d39d41e4725da60898")),
         .package(url: "https://github.com/httpswift/swifter.git", .revision("1e4f51c92d7ca486242d8bf0722b99de2c3531aa")),
         .package(url: "https://github.com/kishikawakatsumi/KeychainAccess.git", from: "4.2.2"),
         .package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", from: "1.6.0"),
